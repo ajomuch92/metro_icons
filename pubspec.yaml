@@ -1,6 +1,6 @@
 name: metro_icons
-description: A new Flutter package project.
-version: 0.0.2
+description: A Flutter package including 700 icons from Metro UI Icon
+version: 0.0.1
 homepage: https://github.com/ajomuch92/metro_icons
 
 environment:
