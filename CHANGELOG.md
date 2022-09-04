@@ -4,4 +4,4 @@
 
 ## 0.0.2
 
-* Adding missing license.
+* Updating documentation.
