@@ -1,6 +1,6 @@
 # Metro Icons Flutter
 
-This package includes 700 icons from [Metro UI Icon](https://icons.getbootstrap.com/) set. The naming convention is the same as the CSS names in camelCase.
+This package includes 700 icons from [Metro UI Icon](https://metroui.org.ua/icons.html) set. The naming convention is the same as the CSS names in camelCase.
 
 ## Instalation
 Include `metro_icons` in your `pubspec.yaml` file:
